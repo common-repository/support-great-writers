@@ -1,0 +1,9 @@
+/*
+  Minimal style to ensure that varying width products all display the same way
+*/
+#support_great_writers TR TD {
+  text-align:center;
+}
+.sgw_product_img {
+  width: 98%;
+}
